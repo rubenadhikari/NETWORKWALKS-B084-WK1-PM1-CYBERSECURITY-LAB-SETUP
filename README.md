@@ -125,7 +125,3 @@ Through this exercise, I practiced:
 - Using VM snapshots to preserve a working lab state.
 - Documenting technical work with reproducible commands and screenshots.
 
-## Conclusion
-
-The Kali Linux virtual lab was configured and its network connectivity was verified. The shared folder, clipboard, and drag-and-drop features were also tested. The environment is ready for the next stage of cybersecurity learning and practical network-analysis exercises.
-
