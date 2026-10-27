@@ -1,4 +1,4 @@
-# Network Walks - Week 1 | PM1: Cybersecurity Lab Setup
+# Network Walks - Week 1 | PM1: Cybersecurity Lab Setup - Ruben Adhikari
 
 ## Overview
 
