@@ -1,4 +1,4 @@
-# Network Walks — Week 1 | PM1: Cybersecurity Lab Setup
+# Network Walks - Week 1 | PM1: Cybersecurity Lab Setup
 
 ## Overview
 
@@ -112,8 +112,6 @@ Screenshots documenting the lab configuration and tests are included in the `scr
 | `07-shared-folder.png` | Shared folder configuration |
 | `08-vm-snapshot.png` | Virtual machine snapshot |
 
-*Note: Make sure the filenames above match the actual files uploaded to the repository.*
-
 ## Learning Outcomes
 
 Through this exercise, I practiced:
@@ -131,6 +129,3 @@ Through this exercise, I practiced:
 
 The Kali Linux virtual lab was configured and its network connectivity was verified. The shared folder, clipboard, and drag-and-drop features were also tested. The environment is ready for the next stage of cybersecurity learning and practical network-analysis exercises.
 
-## Scope
-
-This repository covers **Network Walks Week 1 — PM1: Cybersecurity Lab Setup**. Additional Wireshark and SOC-related exercises will be documented separately as distinct project work.
