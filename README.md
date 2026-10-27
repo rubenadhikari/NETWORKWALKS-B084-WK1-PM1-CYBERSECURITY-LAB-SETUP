@@ -99,7 +99,7 @@ The following configuration items were completed:
 
 ## Evidence and Screenshots
 
-Screenshots documenting the lab configuration and tests are included in the `screenshots/` directory.
+Screenshots documenting the lab configuration and tests are included in the `WK1/` directory.
 
 | Screenshot | Description |
 |---|---|
